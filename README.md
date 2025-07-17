@@ -18,7 +18,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
+git clone https://github.com/Adao-Marques/ecommerce-api.git
 cd ecommerce-api
 npm install
 cp .env.example .env
