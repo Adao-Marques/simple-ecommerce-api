@@ -5,7 +5,7 @@
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
 ![REST](https://img.shields.io/badge/RESTful-API-brightgreen)
 
-## ✨ Enhanced Features
+## Features
 
 - **Case-insensitive duplicate checks** for all critical fields
 - **Detailed conflict detection** with clear error messages
